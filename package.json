@@ -1,0 +1,15 @@
+{
+  "name": "polka-server",
+  "version": "1.0.0",
+  "description": "Polka Server",
+  "main": "index.js",
+  "repository": "https://github.com/emmanuelsw/polka-server",
+  "author": "emmanuelsw",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "polka": "^0.4.0"
+  }
+}
